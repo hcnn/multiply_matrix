@@ -1,0 +1,12 @@
+{
+  "name": "multiply_matrix",
+  "version": "0.1.0",
+  "repo": "hcnn/multiply_matrix",
+  "description": "Matrix-Matrix Multiplication",
+  "keywords": ["matrix multiplication"],
+  "license": "MIT",
+  "src": ["multiply_matrix.c", "multiply_matrix.h"],
+  "dependencies": {
+    "hcnn/rowidx": "0.1.0"
+  }
+}
